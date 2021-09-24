@@ -1,0 +1,12 @@
+Request method:	DELETE
+RRequest URI:	http://localhost:1234/v1/users/65507bae-76f4-4a22-b0b6-a34167eada42
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+6Path params:	id=65507bae-76f4-4a22-b0b6-a34167eada42
+#Headers:		accept=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+
